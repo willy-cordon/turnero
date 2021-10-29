@@ -1,0 +1,26 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+
+
+// Variables
+@import "variables";
+
+
+//CoreUI
+@import '~@coreui/coreui/dist/css/coreui.min.css';
+
+// FontAwesome 5
+@import "~@fortawesome/fontawesome-free/scss/fontawesome";
+@import "~@fortawesome/fontawesome-free/scss/brands";
+@import "~@fortawesome/fontawesome-free/scss/regular";
+@import "~@fortawesome/fontawesome-free/scss/solid";
+
+// DateTimePicker
+@import "~pc-bootstrap4-datetimepicker/build/css/bootstrap-datetimepicker.min.css";
+
+// Select2
+@import "~select2/dist/css/select2.min.css";
+
+@import "~bootstrap4-toggle/css/bootstrap4-toggle.min.css";

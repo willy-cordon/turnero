@@ -1,0 +1,11 @@
+@import '~datatables.net-bs4/css/dataTables.bootstrap4.css';
+@import '~datatables.net-select-bs4/css/select.bootstrap4.min.css';
+@import '~datatables.net-buttons-bs4/css/buttons.bootstrap4.min.css';
+
+.select-checkbox{
+  font-size: 12px;
+}
+
+.bootstrap-datetimepicker-widget .picker-switch td span, .bootstrap-datetimepicker-widget .picker-switch td a{
+  background:red !important;
+}
